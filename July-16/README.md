@@ -1,0 +1,5 @@
+* [Q-1. Combination Sum - II](https://leetcode.com/problems/combination-sum-ii/)
+* [Q-2. Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+* [Q-3. M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
+* [Q-4. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+* [Q-5. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
