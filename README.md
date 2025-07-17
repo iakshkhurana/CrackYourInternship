@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a 45-day Data Structures and Algorithms (DSA) challenge based on **Arsh Goyal's DSA Sheet** to help you get interview-ready. The challenge covers essential DSA topics to prepare for coding interviews.
+This is a 45-day Data Structures and Algorithms (DSA) challenge based on **Arsh Goyal's DSA Sheet** and **Random Questions** to help you get interview-ready. The challenge covers essential DSA topics to prepare for coding interviews.
 
 ## Source
 
