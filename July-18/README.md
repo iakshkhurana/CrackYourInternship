@@ -1,4 +1,4 @@
-Last Day of Backtracking
+Backtracking
 
 * [Q-1. Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) *Revise*
 
